@@ -1,20 +1,3 @@
-# blender-xray [![Build Status](https://travis-ci.org/igelbox/blender-xray.svg)](https://travis-ci.org/igelbox/blender-xray) [![Code Coverage](https://codecov.io/gh/igelbox/blender-xray/graph/badge.svg)](https://codecov.io/gh/igelbox/blender-xray)
-XRay-engine import/export plugin for [blender](http://www.blender.org/).
+The repository has been **moved** to [PavelBlend/blender-xray](https://github.com/PavelBlend/blender-xray). So, please, look for new releases, issues, and whatever else there.
 
-## Supported formats
-| Extension | Description      | Can import | Can export | Remarks |
-|-----------|------------------|:----------:|:----------:|---------|
-| .object   | Source models    | Yes        | Yes        | |
-| .anm      | Animation paths  | Yes        | Yes        | |
-| .dm       | Detail model     | Yes        | Yes        | |
-| .details  | Level details    | Yes        | Yes        | |
-| .skl      | Skeletal action  | Yes        | Yes        | |
-| .skls     | Skeletal actions | Yes        | Yes        | |
-| .err      | Error list       | Yes        | -          | |
-| .ogf      | Compiled models  | No         | Yes*       | *Extremely experimental |
-
-## Installation
-Follow [wiki instructions](https://github.com/igelbox/blender-xray/wiki/Installation).
-
-## License
-Published under the liberal terms of the BSD License, see the [LICENSE](LICENSE) file.
+This repository isn't maintained now.
